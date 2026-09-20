@@ -36,7 +36,6 @@ Your players get the icons the next time they join. They do not have to install 
 ## Good to know
 
 * Only one resource on a server can ship these files. If another resource streams the same file name, the one that starts last wins, so pick one and remove the other.
-* The item icons show up in more places than the wheel, for example in the satchel and in store menus. They change there too.
 * Nothing is written to your RDR2 folder. The files are streamed at runtime, so single player and other servers stay untouched.
 * Works next to VORP, RSG and standalone setups alike, because this resource is only textures.
 
