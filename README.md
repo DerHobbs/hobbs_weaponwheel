@@ -8,9 +8,8 @@ No dependencies, no framework, no edits to your RDR2 installation.
 
 ## Screenshots
 
-![Weapons tab](images/weapons.png)
-
-![Items tab](images/items.png)
+<img width="924" height="947" alt="Screenshot 2026-09-20 175321" src="https://github.com/user-attachments/assets/c8bec914-db6a-47f2-b53a-df64674e3916" />
+<img width="907" height="1056" alt="Screenshot 2026-09-20 175327" src="https://github.com/user-attachments/assets/ede38b21-7c2d-4c0a-a502-8afd263c96b4" />
 
 ## Install
 
