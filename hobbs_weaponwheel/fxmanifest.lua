@@ -5,5 +5,5 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 
 author 'DerHobbs'
 description 'Colorful Weapon Icons, RedM standalone'
-version '1.0.0'
+version '1.0.2'
 lua54 'yes'
